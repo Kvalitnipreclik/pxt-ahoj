@@ -1,0 +1,28 @@
+{
+    "name": "suiii",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "microphone": "*",
+        "WhaleySansFont": "github:makecode-extensions/whaleysansfont#v1.1.0",
+        "pxt-serialnumber-encoder": "github:tomaskazda/pxt-serialnumber-encoder#1fc3ac59650ea7e79b0b5b50cfc8120908a9c3bf"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "main.py"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "5.0.12",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
