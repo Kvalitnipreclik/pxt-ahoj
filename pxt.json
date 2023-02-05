@@ -9,10 +9,8 @@
         "pxt-serialnumber-encoder": "github:tomaskazda/pxt-serialnumber-encoder#1fc3ac59650ea7e79b0b5b50cfc8120908a9c3bf"
     },
     "files": [
-        "main.blocks",
         "main.ts",
-        "README.md",
-        "main.py"
+        "README.md"
     ],
     "testFiles": [
         "test.ts"
